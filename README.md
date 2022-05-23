@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asad921
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning php laravel
+- 🌱 I’m currently working on php laravel
 - 💞️ I’m looking to collaborate on git 
 - 📫 How to reach me officiallasad.ali@gmail.com
 
